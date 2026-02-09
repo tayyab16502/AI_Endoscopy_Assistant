@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377907540070",
+    "project_id": "ai-report-6c914",
+    "storage_bucket": "ai-report-6c914.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377907540070:android:c84e93b51d692634d2bda7",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldftMzXW3p3T8Y4WWPku1E1FVgwytwXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
