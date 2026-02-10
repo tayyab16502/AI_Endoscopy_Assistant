@@ -49,3 +49,11 @@ AI Model: Python (Custom Deep Learning Model)
 Connectivity: Ngrok (Used to connect the local Python AI server to the mobile app for free). 
 
 5. Developer Note This app is a prototype. My main goal was to perfect the AI integration and the Database Logic (like handling duplicate names and auto-sharing). The UI is kept simple to focus on functionality. 
+
+Some app screenshots are here
+
+![Image](https://github.com/user-attachments/assets/b0a48b88-6ffc-4951-83f4-dd67663f7ee1)
+![Image](https://github.com/user-attachments/assets/764e8bee-e752-4976-93bf-ba220bf139ff)
+![Image](https://github.com/user-attachments/assets/920474cc-97f1-4be0-85ae-196a880ac4c7)
+![Image](https://github.com/user-attachments/assets/f70df85a-f9c4-4681-80ac-68c57ca324ea)
+![Image](https://github.com/user-attachments/assets/49d2f901-d3a1-43db-85f8-f6cec3440245)
